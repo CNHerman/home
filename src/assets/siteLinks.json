@@ -2,36 +2,41 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://note.xinfaye.top/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "Heart",
+    "name": "LOVE",
+    "link": "https://love.xinfaye.top/"
   },
   {
     "icon": "CompactDisc",
     "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://music.xinfaye.top"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "导航",
+    "link": "https://nav.xinfaye.top/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "Robot",
+    "name": "AIChat",
+    "link": "https://chat.xinfaye.top/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "UserAstronaut",
+    "name": "头像",
+    "link": "https://avatar.xinfaye.top/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Gamepad",
+    "name": "游戏",
+    "link": "https://game.xinfaye.top/"
+  },
+  {
+    "icon": "Medapps",
+    "name": "待定",
+    "link": "https://lab.xinfaye.top/"
   }
 ]
