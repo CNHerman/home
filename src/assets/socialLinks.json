@@ -28,17 +28,17 @@
     "icon": "/images/icon/wechat.png",
     "tip": "欢迎关注 ~",
     "url": "https://pic2.ziyuan.wang/2023/05/26/08eda9a4c3b92.jpg"
-  }
-  // {
-  //   "name": "Twitter",
-  //   "icon": "/images/icon/twitter.png",
-  //   "tip": "你懂的 ~",
-  //   "url": "https://twitter.com/iimmsyy"https://pic2.ziyuan.wang/2023/05/26/08eda9a4c3b92.jpg
-  // },
-  // {
-  //   "name": "Telegram",
-  //   "icon": "/images/icon/telegram.png",
-  //   "tip": "你懂的 ~",
-  //   "url": "https://t.me/bottom_user"
-  // }
+  },
+  {
+    "name": "X",
+    "icon": "/images/icon/x.png",
+    "tip": "国际咨讯 ~",
+    "url": "https://twitter.com/Herman0830"
+   },
+   {
+    "name": "Telegram",
+    "icon": "/images/icon/telegram.png",
+    "tip": "国际电报 ~",
+    "url": "https://t.me/CNHerman"
+   }
 ]
